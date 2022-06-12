@@ -2,6 +2,12 @@
   padding: 0 2rem;
 }
 
+.head {
+  display: grid;
+  margin: 10px;
+  padding: 0.5rem 3rem;
+}
+
 .main {
   min-height: 100vh;
   padding: 4rem 0;
